@@ -28,6 +28,10 @@ Faites : ``` sudo python3 src/sniffer.py ``` pour lancer le sniffer.
 
 Choisissez l'interface sur laquelle vous voulez écoutez et ensuite choisissez le nombre de paquet a Capturer .
 
+Après avoir utilisé le sniffer, si vous voulez quitter l'environnement faites la commande:
+
+``` deactivate ```
+
 
 
 ## Features
