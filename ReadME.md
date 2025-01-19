@@ -18,7 +18,7 @@ Pour activer l'environnement faites :
 
 ```source Nom_De_l'environnement/bin/activate ```
 
-Maintenant vous devez installer les dépendance : ```pip install -r requirement.txt```
+Maintenant vous devez installer les dépendance : ```pip install -r requierement.txt ```
 
 ## Lancement
 
